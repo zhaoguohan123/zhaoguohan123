@@ -1,1 +1,1 @@
-![](https://raw.zhaoguohan123.com/zhaoguohan123/zhaoguohan123/main/dist/github-contribution-grid-snake.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoguohan123)](https://github.com/zhaoguohan123/github-readme-stats)
