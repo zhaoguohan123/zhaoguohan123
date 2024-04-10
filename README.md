@@ -1,4 +1,2 @@
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoguohan123)](https://github.com/zhaoguohan123/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoguohan123&layout=compact)](https://github.com/zhaoguohan123/github-readme-stats)
+| <a href="https://github.com/zhaoguohan123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhaoguohan123&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/zhaoguohan123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoguohan123&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
