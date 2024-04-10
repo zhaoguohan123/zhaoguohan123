@@ -6,6 +6,8 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 - 🚀 I use daily:
   [![C/C++](https://img.shields.io/badge/-C/C++-00599c?style=plastic&logo=cplusplus)](1)
   [![python](https://img.shields.io/badge/-python-3776AB?style=plastic&logo=python)](1)
+  [![cmake](https://img.shields.io/badge/-cmake-064F8C?style=plastic&logo=cmake)](1)
+  [![qemu](https://img.shields.io/badge/-qemu-FF6600?style=plastic&logo=qemu)](1)
   [![Git](https://img.shields.io/badge/-Git-FC6D26?style=plastic&logo=git)](1)
   
 
